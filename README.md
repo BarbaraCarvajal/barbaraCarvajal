@@ -1,5 +1,6 @@
-### Holi everyone 👋
+### Hi everyone 👋
 
-👩🏻‍💻 I'm a computer engineering student 
-📍 I live in Chile
-🐍 I´m currently studying python, I love it!💖
+- 👩🏻‍💻 I'm a computer engineering student 
+- 📍 I live in Chile 🇨🇱🌶
+- 🐍 I´m currently studying python, I love it!💖
+- 🦦 I love to learn! 🤓
