@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Barbara</h1>
-<h3 align="center">a curious person, eager to learn new things</h3>
+<h3 align="center">A curious person, eager to learn new things</h3>
 
 <p align="left"> <a href="https://twitter.com/barbscript" target="blank"><img src="https://img.shields.io/twitter/follow/barbscript?logo=twitter&style=for-the-badge" alt="barbscript" /></a> </p>
 
