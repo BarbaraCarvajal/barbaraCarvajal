@@ -1,4 +1,3 @@
-  ###               Hi everyone 👋 I´m Bárbara 🙋🏻‍♀️
 
 
 <h1 align="center">Hi 👋, I'm Barbara</h1>
