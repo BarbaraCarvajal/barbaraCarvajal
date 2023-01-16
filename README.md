@@ -3,6 +3,8 @@
 <h1 align="center">Hi, I'm Barbara <a href="https://www.linkedin.com/in/b%C3%A1rbara-carvajal-s%C3%A1ez-30926a238/"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a></h1>
 <h3 align="center">a curious person, eager to learn new things</h3>
 
+
+
 <p align="left"> <a href="https://twitter.com/barbscript" target="blank"><img src="https://img.shields.io/twitter/follow/barbscript?logo=twitter&style=for-the-badge" alt="barbscript" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Java**
@@ -21,3 +23,5 @@
 
 
 ![](https://github.com/BarbaraCarvajal/mokita77/blob/main/Pixilart%20-%20Live%20on.gif)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barbaracarvajal&label=Profile%20views&color=0e75b6&style=flat" alt="barbaracarvajal" /> </p>
