@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Barbara</h1>
+<h1 align="center">Hi, I'm Barbara <a href="https://www.linkedin.com/in/b%C3%A1rbara-carvajal-s%C3%A1ez-30926a238/"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a></h1>
 <h3 align="center">a curious person, eager to learn new things</h3>
 
 <p align="left"> <a href="https://twitter.com/barbscript" target="blank"><img src="https://img.shields.io/twitter/follow/barbscript?logo=twitter&style=for-the-badge" alt="barbscript" /></a> </p>
