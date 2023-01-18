@@ -28,7 +28,15 @@
 
 
 ![](https://github.com/BarbaraCarvajal/mokita77/blob/main/Pixilart%20-%20Live%20on.gif)
+<br/>
 
+---
+<!-- Snake code contribution diagram -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
+---
+
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barbaracarvajal&label=Profile%20views&color=0e75b6&style=flat" alt="barbaracarvajal" /> </p>
 <a href="https://www.linkedin.com/in/b%C3%A1rbara-carvajal-s%C3%A1ez-30926a238/"><img src="https://github.com/BarbaraCarvajal/barbaraCarvajal/blob/main/giphy.gif" width="80"></a>
 <a href="https://www.linkedin.com/in/b%C3%A1rbara-carvajal-s%C3%A1ez-30926a238/"><img src="https://github.com/BarbaraCarvajal/barbaraCarvajal/blob/main/giphy%20(1).gif" width="80"></a>
