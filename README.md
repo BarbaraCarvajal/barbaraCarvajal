@@ -1,4 +1,4 @@
-# ¡Bienvenidos a mi perfil de GitHub! 🙋🏻‍♀️
+# ¡Bienvenidos a mi perfil de GitHub! 🙋🏻‍♀️ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ¡Hola! Soy Bárbara, una estudiante de ingeniería informática apasionada por la tecnología y la programación. En mi tiempo libre me gusta crear proyectos personales para seguir aprendiendo y mejorando mis habilidades. 
 
@@ -27,5 +27,7 @@ Aquí te presento algunos de mis proyectos más destacados:
 - [Todas mis redes](https://linktr.ee/barbaracarvajal) 🐱
 
 ¡Gracias por visitar mi perfil! 😊
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barbaracarvajal&show_icons=true&locale=en&layout=compact" alt="barbaracarvajal" /></p>
 
 ![](https://github.com/BarbaraCarvajal/mokita77/blob/main/Pixilart%20-%20Live%20on.gif)
