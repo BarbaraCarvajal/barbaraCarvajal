@@ -4,7 +4,7 @@
 
 ## Acerca de mí 👩🏻‍💻
 
-- Actualmente estoy estudiando Ingeniería Informática en Inacap y realizando un Bootcamp de Android en la universidad Andres Bellos a través de Talento Digital.
+- Actualmente estoy estudiando Ingeniería Informática en Inacap y realizando un Bootcamp de Android en la universidad Andres Bello a través de Talento Digital.
 - Estoy interesada en aprender más sobre programación y tecnología.
 - Estoy buscando oportunidades de colaboración y aprendizaje en el campo de la tecnología.
 <!-- - Me encanta trabajar en proyectos relacionados con . -->
