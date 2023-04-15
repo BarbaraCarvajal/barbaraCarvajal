@@ -22,7 +22,7 @@ Aquí te presento algunos de mis proyectos más destacados:
 
 ¡No dudes en contactarme si tienes preguntas, sugerencias o simplemente quieres charlar sobre tecnología y programación! ✉️
 
-- [Email](barb.carvajalsaez@gmail.com) 📧
+- [Email](barb.carvajalsaez@gmail.com) 📧 barb.carvajalsaez@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-carvajal-s%C3%A1ez-30926a238/) 💼
 - [Todas mis redes](https://linktr.ee/barbaracarvajal) 🐱
 
