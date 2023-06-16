@@ -9,15 +9,15 @@
 - Estoy buscando oportunidades de colaboración y aprendizaje en el campo de la tecnología.
 <!-- - Me encanta trabajar en proyectos relacionados con . -->
 
-<!--
+
 ## Proyectos destacados 🚀
 
 Aquí te presento algunos de mis proyectos más destacados:
 
-- [Proyecto 1](enlace al proyecto) - Una breve descripción del proyecto.
-- [Proyecto 2](enlace al proyecto) - Una breve descripción del proyecto.
-- [Proyecto 3](enlace al proyecto) - Una breve descripción del proyecto.
--->
+- [CatCoin😼💰](https://github.com/BarbaraCarvajal/CatCoin) 
+- [MiauFlix🐈🍿](https://github.com/BarbaraCarvajal/MiauFlix)
+- [Mokita Shop🐱‍💻🎮](https://github.com/BarbaraCarvajal/e-commerce) 
+
 ## Contacto 📫
 
 ¡No dudes en contactarme si tienes preguntas, sugerencias o simplemente quieres charlar sobre tecnología y programación! ✉️
