@@ -12,11 +12,13 @@
 
 ## Proyectos destacados 🚀
 
-Aquí te presento algunos de mis proyectos más destacados:
-
+- [Portafolio personal 👩🏻‍💻💼](https://github.com/BarbaraCarvajal/portafolio-barbara-carvajal)
 - [CatCoin😼💰](https://github.com/BarbaraCarvajal/CatCoin) 
 - [MiauFlix🐈🍿](https://github.com/BarbaraCarvajal/MiauFlix)
-- [Mokita Shop🐱‍💻🎮](https://github.com/BarbaraCarvajal/e-commerce) 
+- [Mokita Shop🐱‍💻🎮](https://github.com/BarbaraCarvajal/e-commerce)
+- [Peluquería Mascotas🐶🐱✂️ ](https://github.com/BarbaraCarvajal/peluqueria-mascotas)
+
+
 
 ## Contacto 📫
 
