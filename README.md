@@ -3,7 +3,7 @@
 ¡Hola! Soy Bárbara, una estudiante de ingeniería informática apasionada por la tecnología y la programación. En mi tiempo libre me gusta crear proyectos personales para seguir aprendiendo y mejorando mis habilidades. 
 
 ## Acerca de mí 👩🏻‍💻
-
+- He ingresado como fullstack developer a Accenture Chile 💜🇨🇱
 - Actualmente estoy estudiando Ingeniería Informática en Inacap y realizando un Bootcamp de Android en la universidad Andres Bello a través de Talento Digital.
 - Estoy interesada en aprender más sobre programación y tecnología.
 - Estoy buscando oportunidades de colaboración y aprendizaje en el campo de la tecnología.
