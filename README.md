@@ -29,9 +29,9 @@
 - [Todas mis redes](https://linktr.ee/barbaracarvajal) 🐱
 
 ¡Gracias por visitar mi perfil! 😊
-<!--
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barbaracarvajal&show_icons=true&locale=en&layout=compact" alt="barbaracarvajal" /></p>
--->
+
 
 
 
