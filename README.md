@@ -6,8 +6,7 @@
 - He ingresado como Fullstack developer a Accenture Chile 💜🇨🇱
 - Actualmente estoy estudiando Ingeniería Informática en Inacap.
 - Estoy interesada en aprender más sobre programación y tecnología.
-- Estoy buscando oportunidades de colaboración y aprendizaje en el campo de la tecnología.
-<!-- - Me encanta trabajar en proyectos relacionados con . -->
+- Estoy aprendiendo: React - Nest.js 
 
 
 ## Proyectos destacados 🚀
