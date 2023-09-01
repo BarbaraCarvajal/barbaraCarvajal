@@ -18,7 +18,6 @@
 - [Peluquería Mascotas🐶🐱✂️ ](https://github.com/BarbaraCarvajal/peluqueria-mascotas)
 
 
-
 ## Contacto 📫
 
 ¡No dudes en contactarme si tienes preguntas, sugerencias o simplemente quieres charlar sobre tecnología y programación! ✉️
