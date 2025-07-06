@@ -6,7 +6,7 @@
 - He ingresado como Fullstack developer a Accenture Chile 💜🇨🇱
 - Actualmente estoy estudiando Ingeniería Informática en Inacap.
 - Estoy interesada en aprender más sobre programación y tecnología.
-- Estoy aprendiendo: React - Nest.js 
+- Estoy aprendiendo: Automatización.
 
 
 ## Proyectos destacados 🚀
@@ -24,7 +24,6 @@
 
 - [Email](barb.carvajalsaez@gmail.com) 📧 barb.carvajalsaez@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-carvajal-s%C3%A1ez-30926a238/) 💼
-- [Todas mis redes](https://linktr.ee/barbaracarvajal) 🐱
 
 ¡Gracias por visitar mi perfil! 😊
 
